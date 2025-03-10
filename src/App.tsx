@@ -40,6 +40,12 @@ function App() {
       description: 'A crytocurrency price tracking app built with React and the CoinGecko API.',
       tech: ['React', 'CoinGecko API', 'Tailwind CSS'],
       link: 'https://kointrack.netlify.app/'
+    },
+    {
+      title: 'Notes App',
+      description: 'A note taking app that allows you input, format, edit, and save notes to local storage.',
+      tech: ['React', 'TypeScript', 'Tailwind CSS'],
+      link: 'https://myjotspace.netlify.app/'
     }
   ];
 
