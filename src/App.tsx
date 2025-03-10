@@ -90,7 +90,7 @@ function App() {
               <div className="typewriter mb-6">
                 <Typewriter
                   options={{
-                    strings: ['Hi, I am a frontend developer...', '...and a web designer'],
+                    strings: ['Hi, I am a frontend developer.', 'I build modern web applications.', 'I love exploring new technologies.'],
                     autoStart: true,
                     loop: true,
                   }}
